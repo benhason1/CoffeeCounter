@@ -1,0 +1,13 @@
+.new-user {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.new-user > * {
+  margin: 2rem;
+}
+/*# sourceMappingURL=CreateUser.css.map */
